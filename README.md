@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dibesh Shrestha</h1>
-<h3 align="center">Want to be a passionate frontend developer</h3>
+<h3 align="center">Want to be a passionate Fullstack developer</h3>
 <img align="right"alt="coding"width="400"src="https://i.gifer.com/5eKX.gif">
 
 
