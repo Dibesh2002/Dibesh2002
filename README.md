@@ -10,19 +10,16 @@
 
 - 🔭 I’m currently working on **Infoys"Application Development"**
 
-- 🌱 I’m currently learning **Reacts, Javascripts, Python**
+- 🌱 I’m currently learning **Reacts, Javascrits, Java**
 
-- 👯 I’m looking to collaborate on **Wipro**
+- 💬 Ask me about **C programming, HTML, Graphic Design, Python**
 
-- 💬 Ask me about **C programming, HTML, Graphic Design**
+- 📫 How to reach me **dibeshshrestha2002@gmail.com**
 
-- 📫 How to reach me **debess2012@gmail.com**
-
-- ⚡ Fun fact **Coffee is Love for Programmer|Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dibesh_sht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibesh_sht" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/dibesh_sht](https://www.linkedin.com/in/dibesh-shrestha/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibesh_sht" height="30" width="40" /></a>
 <a href="https://fb.com/dibesh shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dibesh shrestha" height="30" width="40" /></a>
 <a href="https://instagram.com/debess_sht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debess_sht" height="30" width="40" /></a>
 </p>
